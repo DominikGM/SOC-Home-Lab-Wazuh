@@ -119,7 +119,7 @@ resulting Wazuh alert.
 
 The Windows endpoint is successfully connected to the Wazuh server.
 
-![Wazuh Agent Active](screenshots/agent-active.png)
+![Wazuh Agent Active](screenshots/Windows-SOC-LAB.png)
 
 ### First Authentication Failure Alert
 
