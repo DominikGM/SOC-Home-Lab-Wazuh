@@ -119,10 +119,10 @@ resulting Wazuh alert.
 
 The Windows endpoint is successfully connected to the Wazuh server.
 
-![Wazuh Agent Active](screenshots/Windows-SOC-LAB.png)
+![Wazuh Agent Active](./Windows-SOC-LAB.png)
 
 ### First Authentication Failure Alert
 
 The first security event detected by Wazuh was a Windows authentication failure (Event ID 4625).
 
-![First Authentication Failure](screenshots/first-authentication-failure.png)
+![First Authentication Failure](./first-authentication-failure.png)
