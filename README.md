@@ -112,3 +112,17 @@ in the SOC home lab.
 The laboratory successfully demonstrated the collection of Windows security
 logs, detection of an authentication failure and investigation of the
 resulting Wazuh alert.
+
+## Screenshots
+
+### Wazuh Agent – Active
+
+The Windows endpoint is successfully connected to the Wazuh server.
+
+![Wazuh Agent Active](screenshots/agent-active.png)
+
+### First Authentication Failure Alert
+
+The first security event detected by Wazuh was a Windows authentication failure (Event ID 4625).
+
+![First Authentication Failure](screenshots/first-authentication-failure.png)
